@@ -5,3 +5,7 @@
 - 📫 Como me contatar: lvprado@gmail.com ou www.linkedin.com/in/leandro-prado-92b38a161 
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: Tenho 18 anos de experiência no setor de varejista, o que me deu uma perspectiva única sobre as necessidades dos clientes e dinâmica de equipe.
+
+## Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsername&layout=compact&langs_count=6&theme=radical)
