@@ -48,13 +48,13 @@
 
 ## 🌎 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/leandro-vinicius-prado" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-prado-92b38a161" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:lvprado@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://lcsiweb.ddns.com.br" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-black?logo=firefox&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
