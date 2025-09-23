@@ -1,34 +1,60 @@
-### Olá! Eu sou o Leandro Prado ✋🏼
+<!-- Banner ou título -->
+<h1 align="center">👋 Olá, eu sou Leandro Vinícius do Prado</h1>
+<h3 align="center">🚀 Desenvolvedor Full Stack | Foco em Front-End (Vue.js, JS, PHP, ASP.NET)</h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-prado-92b38a161)
+---
 
-![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroVPrado&show_icons=true&theme=merko)
+## 🔥 Sobre mim
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas (FATEC Franca)**  
+- 💼 Desenvolvedor na **LCSi Soluções**  
+- 🛠 Experiência em **C# (DLLs, APIs bancárias), SQL Server, PHP e Vue.js**  
+- 🚴‍♂️ Apaixonado por tecnologia, desafios e trilhas de bike aos finais de semana!  
 
-## Tecnologias que eu uso no meu dia a dia
+---
 
-<div style="display: inline_block"><br/>
-    <img height=40 align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img height=40 align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img height=40 align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img height=40 align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img height=40 align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-    <img height=40 align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-    <img height=40 align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div><br/>
+## 🚀 Tech Stack
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</p>
 
+---
 
-## Linguagens mais usadas
+## 📌 Projetos em Destaque
+- 🔗 [O Porteiro Eletrônico](#) *(Landing Page em Vue.js)*  
+- 🔗 [Sistema de Agendamento](#) *(Vue.js + MySQL)*  
+- 🔗 [Integração Bancária via DLL](#) *(C# + VB6)*  
+- 🔗 [Site Clínica Estética](#) *(Vue.js)*  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVPrado&langs_count=8)
+---
 
-### Sobre mim
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeandroVPrado&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroVPrado&layout=compact&theme=radical" height="160"/>
+</p>
 
-- 👀 Tenho interesse em desenvolvimento Front-End, com foco em PHP. Sou Apaixonado por construir aplicações web interativas e dinâmicas.
-- 🌱 Atualmente, estou estudando Análise e Desenvolvimento de Sistemas na Fatec - Franca, onde estou sempre aprendendo novas tecnologias e boas práticas em desenvolvimento de software.
-- 💞️ Estou buscando colaborar em projetos que envolvam PHP, Vue.js, JavaScript e desenvolvimento web em geral. Fico animado em trabalhar com outras pessoas que compartilham o amor pela tecnologia e inovação.
-- 📫 Como me contatar: lvprado@gmail.com ou www.linkedin.com/in/leandro-prado-92b38a161 
-- 😄 Pronomes: ele/dele
-- ⚡ Curiosidade: Tenho 18 anos de experiência no setor de varejista, o que me deu uma perspectiva única sobre as necessidades dos clientes e dinâmica de equipe.
+---
 
-
-
+## 🌎 Conecte-se comigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/leandro-vinicius-prado" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://lcsiweb.ddns.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-black?logo=firefox&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
