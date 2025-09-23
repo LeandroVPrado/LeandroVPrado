@@ -1,12 +1,12 @@
 <!-- Banner ou título -->
-<h1 align="center">👋 Olá, eu sou Leandro Vinícius do Prado</h1>
+<h1 align="center">👋 Olá, eu sou Leandro Prado</h1>
 <h3 align="center">🚀 Desenvolvedor Full Stack | Foco em Front-End (Vue.js, JS, PHP, ASP.NET)</h3>
 
 ---
 
 ## 🔥 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas (FATEC Franca)**  
-- 💼 Desenvolvedor na **LCSi Soluções**  
+- 💼 Desenvolvedor e HelpDesk na **LCSi Soluções**  
 - 🛠 Experiência em **C# (DLLs, APIs bancárias), SQL Server, PHP e Vue.js**  
 - 🚴‍♂️ Apaixonado por tecnologia, desafios e trilhas de bike aos finais de semana!  
 
