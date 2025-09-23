@@ -31,10 +31,10 @@
 ---
 
 ## 📌 Projetos em Destaque
-- 🔗 [O Porteiro Eletrônico](#) *(Landing Page em Vue.js)*  
+- 🔗 [O Porteiro Eletrônico](https://oporteiroeletronico.netlify.app/) *(Landing Page em Vue.js)*  
 - 🔗 [Sistema de Agendamento](#) *(Vue.js + MySQL)*  
 - 🔗 [Integração Bancária via DLL](#) *(C# + VB6)*  
-- 🔗 [Site Clínica Estética](#) *(Vue.js)*  
+- 🔗 [Site Clínica Estética](https://annamoura.netlify.app/) *(Vue.js)*  
 
 ---
 
