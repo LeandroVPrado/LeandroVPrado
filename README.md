@@ -51,10 +51,10 @@
   <a href="https://www.linkedin.com/in/leandro-prado-92b38a161" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:lvprado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=for-the-badge"/>
+  <a href="https://wa.me/5516993421030" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfólio-black?logo=firefox&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
